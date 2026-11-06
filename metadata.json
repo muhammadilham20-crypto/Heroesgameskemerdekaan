@@ -1,0 +1,6 @@
+{
+  "name": "Heroes of Pancasila: The Quest for Freedom",
+  "description": "Game edukasi petualangan interaktif Pendidikan Pancasila Kelas 7 SMP tentang sejarah kelahiran Pancasila dan Proklamasi Kemerdekaan Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
